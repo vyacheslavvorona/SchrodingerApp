@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/vorona.vyacheslav/SchrodingerApp/SchrodingerAppServer/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

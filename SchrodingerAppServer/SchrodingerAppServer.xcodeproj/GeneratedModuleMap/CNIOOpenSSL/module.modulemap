@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/vorona.vyacheslav/SchrodingerApp/SchrodingerAppServer/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
